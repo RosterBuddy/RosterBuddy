@@ -55,14 +55,14 @@
                     </div>
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="fa fa-paper-plane"></i></div>
-                        <h2 class="h4 fw-bolder">Featured title</h2>
-                        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                        <h2 class="h4 fw-bolder">PilotRostering</h2>
+                        <p>Access the PilotRostering system</p>
                         <a class="text-decoration-none" href="#!">
-                            Call to action
+                            Click Here
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
-                    {{-- <div class="col-lg-4">
+                    <div class="col-lg-4">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-toggles2"></i></div>
                         <h2 class="h4 fw-bolder">Featured title</h2>
                         <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
@@ -70,12 +70,12 @@
                             Call to action
                             <i class="bi bi-arrow-right"></i>
                         </a>
-                    </div> --}}
+                    </div>
                 </div>
             </div>
         </section>
         <!-- Contact section-->
-        <section class="bg-light py-5">
+        {{-- <section class="bg-light py-5">
             <div class="container px-5 my-5 px-5">
                 <div class="text-center mb-5">
                     <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-envelope"></i></div>
@@ -125,7 +125,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
         <!-- Footer-->
         <footer class="py-5 bg-dark">
             <div class="container px-5"><p class="m-0 text-center text-white">Copyright &copy; {{config('app.name')}} <?php echo date("Y"); ?></p></div>
