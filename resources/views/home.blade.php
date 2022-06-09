@@ -44,7 +44,7 @@
                                         <div class="text-center">
                                             <h1 class="h4 text-gray-900 mb-4">Welcome Back!</h1>
                                         </div>
-                                        <a href="https://ryanair.rosterbuddy.org/">
+                                        <a href="https://fr.rosterbuddy.org/">
                                             <button type="submit" class="btn btn-primary btn-user btn-block">
                                                 Enter
                                             </button>
@@ -74,7 +74,7 @@
                                         <div class="text-center">
                                             <h1 class="h4 text-gray-900 mb-4">Welcome Back!</h1>
                                         </div>
-                                        <a href="https://aerlingus.rosterbuddy.org/">
+                                        <a href="https://ei.rosterbuddy.org/">
                                             <button type="submit" class="btn btn-primary btn-user btn-block">
                                                 Enter
                                             </button>
